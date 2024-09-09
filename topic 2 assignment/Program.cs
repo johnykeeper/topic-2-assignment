@@ -9,7 +9,7 @@
             Console.WriteLine();
             Console.WriteLine((14.0 + 15.0 + 16.0) / 3);
             Console.WriteLine();
-            Console.WriteLine((14.0 + 15.0 + 16.0 + 17.0) / 3);
+            Console.WriteLine((14.0 + 15.0 + 16.0 + 17.0) / 4);
             Console.WriteLine();
             Console.WriteLine(3.14*(3 * 3));
             Console.WriteLine();
